@@ -39,4 +39,25 @@ Branch 'main' set up to track remote branch 'main' from 'origin'.
 
 Resposta 4:
 serei_ignorado.txt 
+
 Resposta 5:
+Felipe@DESKTOP-EU5OVE9 MINGW64 ~/Desktop/GitHub/ExerciciosAula1 (main)
+$ git add README.md
+
+Felipe@DESKTOP-EU5OVE9 MINGW64 ~/Desktop/GitHub/ExerciciosAula1 (main)
+$ git commit -m "comit do readme"
+[main 2413a50] comit do readme
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+Felipe@DESKTOP-EU5OVE9 MINGW64 ~/Desktop/GitHub/ExerciciosAula1 (main)
+$ git push -u origin main
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 380 bytes | 380.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/FelipeTRpo/my_first_steps.git
+   010c2f7..2413a50  main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
