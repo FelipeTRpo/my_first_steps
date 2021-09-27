@@ -38,5 +38,5 @@ To https://github.com/FelipeTRpo/my_first_steps.git
 Branch 'main' set up to track remote branch 'main' from 'origin'.
 
 Resposta 4:
-
+serei_ignorado.txt 
 Resposta 5:
