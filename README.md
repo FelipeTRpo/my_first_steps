@@ -36,3 +36,7 @@ Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
 To https://github.com/FelipeTRpo/my_first_steps.git
    68d50c9..6c764f5  main -> main
 Branch 'main' set up to track remote branch 'main' from 'origin'.
+
+Resposta 4:
+
+Resposta 5:
